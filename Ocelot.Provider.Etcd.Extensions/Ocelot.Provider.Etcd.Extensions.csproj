@@ -4,6 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>jinyu成都</Authors>
     <Description>扩展Ocelot.Provider.Etcd，内部定时刷新集群地址</Description>
+    <PackageProjectUrl>https://github.com/jinyuttt/Ocelot.Provider.Etcd.Extensions.git</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
