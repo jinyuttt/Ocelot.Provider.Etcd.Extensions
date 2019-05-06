@@ -1,0 +1,21 @@
+﻿namespace Ocelot.Provider.Etcd.Extensions
+{
+    using DependencyInjection;
+    using Microsoft.Extensions.DependencyInjection;
+
+    public static class OcelotBuilderExtensions
+    {
+        /// <summary>
+        /// add last
+        /// </summary>
+        /// <param name="builder"></param>
+        /// <returns></returns>
+        public static IOcelotBuilder AddEtcdCluster(this IOcelotBuilder builder)
+        {   
+            builder.Services.AddSingleton<IEtcdClientFactory, EtcdClientClusterFactory>();
+            return builder;
+        }
+
+       
+    }
+}
