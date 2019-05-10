@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <PackageReference Include="etcd.Provider.Cluster.Extensions" Version="1.1.0" />
-    <PackageReference Include="etcd.Provider.Service" Version="1.0.0" />
-    <PackageReference Include="Ocelot" Version="13.5.0" />
     <PackageReference Include="Ocelot.Provider.Etcd" Version="0.2.0" />
   </ItemGroup>
 
