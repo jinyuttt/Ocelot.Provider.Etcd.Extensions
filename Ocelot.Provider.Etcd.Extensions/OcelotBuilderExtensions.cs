@@ -2,6 +2,7 @@
 {
     using DependencyInjection;
     using Microsoft.Extensions.DependencyInjection;
+    using Microsoft.Extensions.DependencyInjection.Extensions;
 
     public static class OcelotBuilderExtensions
     {
@@ -11,8 +12,8 @@
         /// <param name="builder"></param>
         /// <returns></returns>
         public static IOcelotBuilder AddEtcdCluster(this IOcelotBuilder builder)
-        {   
-            builder.Services.AddSingleton<IEtcdClientFactory, EtcdClientClusterFactory>();
+        {
+            builder.Services.Replace(ServiceDescriptor.Singleton<IEtcdClientFactory, EtcdClientClusterFactory>());
             return builder;
         }
 
