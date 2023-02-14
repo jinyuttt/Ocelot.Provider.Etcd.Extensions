@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Ocelot.Provider.Etcd.Extensions
+build_property.ProjectDir = E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\

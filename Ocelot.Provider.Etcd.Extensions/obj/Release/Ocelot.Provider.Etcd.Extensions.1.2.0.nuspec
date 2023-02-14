@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ocelot.Provider.Etcd.Extensions</id>
+    <version>1.2.0</version>
+    <authors>jinyu成都</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/jinyuttt/Ocelot.Provider.Etcd.Extensions.git</projectUrl>
+    <description>扩展Ocelot.Provider.Etcd，内部定时刷新集群地址</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Ocelot.Provider.Etcd" version="0.2.0" exclude="Build,Analyzers" />
+        <dependency id="etcd.Provider.Cluster.Extensions" version="1.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\bin\Release\net6.0\Ocelot.Provider.Etcd.Extensions.dll" target="lib\net6.0\Ocelot.Provider.Etcd.Extensions.dll" />
+    <file src="E:\study\etcd\Ocelot.Provider.Etcd.Extensions\LICENSE" target="\LICENSE" />
+    <file src="E:\study\etcd\Ocelot.Provider.Etcd.Extensions\README.md" target="\README.md" />
+  </files>
+</package>

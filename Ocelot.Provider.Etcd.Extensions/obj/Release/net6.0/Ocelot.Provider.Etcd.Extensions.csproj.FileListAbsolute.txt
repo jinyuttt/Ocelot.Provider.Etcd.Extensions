@@ -1,0 +1,12 @@
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\bin\Release\net6.0\Ocelot.Provider.Etcd.Extensions.deps.json
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\bin\Release\net6.0\Ocelot.Provider.Etcd.Extensions.dll
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\bin\Release\net6.0\Ocelot.Provider.Etcd.Extensions.pdb
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.csproj.AssemblyReference.cache
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.AssemblyInfoInputs.cache
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.AssemblyInfo.cs
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.csproj.CoreCompileInputs.cache
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.dll
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\refint\Ocelot.Provider.Etcd.Extensions.dll
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\Ocelot.Provider.Etcd.Extensions.pdb
+E:\study\etcd\Ocelot.Provider.Etcd.Extensions\Ocelot.Provider.Etcd.Extensions\obj\Release\net6.0\ref\Ocelot.Provider.Etcd.Extensions.dll
